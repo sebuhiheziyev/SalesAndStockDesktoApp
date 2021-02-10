@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\Stock App.exe.config
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\Stock App.exe
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\Stock App.pdb
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Stock App\Stock App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Sales and Stock.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Form1.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Properties.Resources.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Sales and Stock.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Sales and Stock.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Sales and Stock.csproj.CopyComplete
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock App.exe
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock App.pdb
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Dashboard.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Categories.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Repots.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Products.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.StockAdd.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Sales.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Admin.resources
+C:\Users\User\source\repos\Stock App\Stock App\obj\Debug\Stock_App.Statistics.resources
